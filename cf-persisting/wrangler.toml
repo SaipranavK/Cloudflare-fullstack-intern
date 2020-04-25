@@ -1,0 +1,5 @@
+name = "cf-fullstack-persisting-worker"
+type = "webpack"
+account_id = "9c1a3b3bf706485acca3250d906920b5"
+workers_dev = true
+
